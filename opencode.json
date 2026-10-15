@@ -1,0 +1,12 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "instructions": [
+    "opencode/instructions/00-policy.md",
+    "opencode/instructions/10-modules.md",
+    "opencode/instructions/11-language.md",
+    "opencode/instructions/20-queries.md",
+    "opencode/instructions/30-data-architecture.md",
+    "opencode/instructions/40-client-server-security.md",
+    "opencode/instructions/50-forms-applied.md"
+  ]
+}

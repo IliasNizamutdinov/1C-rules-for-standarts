@@ -1,0 +1,726 @@
+{
+  "generated_on": "2026-10-15",
+  "rules": {
+    "ENG-REV-001": {
+      "type": "ENGINEERING_RECOMMENDATION",
+      "cursor": ".cursor/rules/00-policy.mdc",
+      "opencode": "opencode/instructions/00-policy.md",
+      "canonical": "rules/recommendations/engineering.json",
+      "loaded_by_default": true
+    },
+    "ENG-REV-002": {
+      "type": "ENGINEERING_RECOMMENDATION",
+      "cursor": ".cursor/rules/00-policy.mdc",
+      "opencode": "opencode/instructions/00-policy.md",
+      "canonical": "rules/recommendations/engineering.json",
+      "loaded_by_default": true
+    },
+    "ENG-REV-003": {
+      "type": "ENGINEERING_RECOMMENDATION",
+      "cursor": ".cursor/rules/00-policy.mdc",
+      "opencode": "opencode/instructions/00-policy.md",
+      "canonical": "rules/recommendations/engineering.json",
+      "loaded_by_default": true
+    },
+    "ENG-REV-004": {
+      "type": "ENGINEERING_RECOMMENDATION",
+      "cursor": ".cursor/rules/00-policy.mdc",
+      "opencode": "opencode/instructions/00-policy.md",
+      "canonical": "rules/recommendations/engineering.json",
+      "loaded_by_default": true
+    },
+    "ENG-REV-008": {
+      "type": "ENGINEERING_RECOMMENDATION",
+      "cursor": ".cursor/rules/00-policy.mdc",
+      "opencode": "opencode/instructions/00-policy.md",
+      "canonical": "rules/recommendations/engineering.json",
+      "loaded_by_default": true
+    },
+    "ENG-REV-009": {
+      "type": "ENGINEERING_RECOMMENDATION",
+      "cursor": ".cursor/rules/00-policy.mdc",
+      "opencode": "opencode/instructions/00-policy.md",
+      "canonical": "rules/recommendations/engineering.json",
+      "loaded_by_default": true
+    },
+    "ENG-REV-010": {
+      "type": "ENGINEERING_RECOMMENDATION",
+      "cursor": ".cursor/rules/00-policy.mdc",
+      "opencode": "opencode/instructions/00-policy.md",
+      "canonical": "rules/recommendations/engineering.json",
+      "loaded_by_default": true
+    },
+    "ENG-REV-011": {
+      "type": "ENGINEERING_RECOMMENDATION",
+      "cursor": ".cursor/rules/00-policy.mdc",
+      "opencode": "opencode/instructions/00-policy.md",
+      "canonical": "rules/recommendations/engineering.json",
+      "loaded_by_default": true
+    },
+    "ENG-REV-012": {
+      "type": "ENGINEERING_RECOMMENDATION",
+      "cursor": ".cursor/rules/00-policy.mdc",
+      "opencode": "opencode/instructions/00-policy.md",
+      "canonical": "rules/recommendations/engineering.json",
+      "loaded_by_default": true
+    },
+    "STD-MOD-001": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/10-modules.mdc",
+      "opencode": "opencode/instructions/10-modules.md",
+      "canonical": "rules/official/modules.json",
+      "loaded_by_default": true
+    },
+    "STD-MOD-002": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/10-modules.mdc",
+      "opencode": "opencode/instructions/10-modules.md",
+      "canonical": "rules/official/modules.json",
+      "loaded_by_default": true
+    },
+    "STD-MOD-003": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/10-modules.mdc",
+      "opencode": "opencode/instructions/10-modules.md",
+      "canonical": "rules/official/modules.json",
+      "loaded_by_default": true
+    },
+    "STD-MOD-004": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/10-modules.mdc",
+      "opencode": "opencode/instructions/10-modules.md",
+      "canonical": "rules/official/modules.json",
+      "loaded_by_default": true
+    },
+    "STD-MOD-005": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/10-modules.mdc",
+      "opencode": "opencode/instructions/10-modules.md",
+      "canonical": "rules/official/modules.json",
+      "loaded_by_default": true
+    },
+    "STD-MOD-006": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/10-modules.mdc",
+      "opencode": "opencode/instructions/10-modules.md",
+      "canonical": "rules/official/modules.json",
+      "loaded_by_default": true
+    },
+    "STD-MOD-007": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/10-modules.mdc",
+      "opencode": "opencode/instructions/10-modules.md",
+      "canonical": "rules/official/modules.json",
+      "loaded_by_default": true
+    },
+    "STD-MOD-008": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/10-modules.mdc",
+      "opencode": "opencode/instructions/10-modules.md",
+      "canonical": "rules/official/modules.json",
+      "loaded_by_default": true
+    },
+    "STD-MOD-009": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/10-modules.mdc",
+      "opencode": "opencode/instructions/10-modules.md",
+      "canonical": "rules/official/modules.json",
+      "loaded_by_default": true
+    },
+    "STD-MOD-010": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/10-modules.mdc",
+      "opencode": "opencode/instructions/10-modules.md",
+      "canonical": "rules/official/modules.json",
+      "loaded_by_default": true
+    },
+    "STD-MOD-011": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/10-modules.mdc",
+      "opencode": "opencode/instructions/10-modules.md",
+      "canonical": "rules/official/modules.json",
+      "loaded_by_default": true
+    },
+    "ENG-REV-006": {
+      "type": "ENGINEERING_RECOMMENDATION",
+      "cursor": ".cursor/rules/10-modules.mdc",
+      "opencode": "opencode/instructions/10-modules.md",
+      "canonical": "rules/recommendations/engineering.json",
+      "loaded_by_default": true
+    },
+    "STD-LANG-001": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/11-language.mdc",
+      "opencode": "opencode/instructions/11-language.md",
+      "canonical": "rules/official/language.json",
+      "loaded_by_default": true
+    },
+    "STD-LANG-002": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/11-language.mdc",
+      "opencode": "opencode/instructions/11-language.md",
+      "canonical": "rules/official/language.json",
+      "loaded_by_default": true
+    },
+    "STD-LANG-003": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/11-language.mdc",
+      "opencode": "opencode/instructions/11-language.md",
+      "canonical": "rules/official/language.json",
+      "loaded_by_default": true
+    },
+    "STD-LANG-004": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/11-language.mdc",
+      "opencode": "opencode/instructions/11-language.md",
+      "canonical": "rules/official/language.json",
+      "loaded_by_default": true
+    },
+    "STD-LANG-005": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/11-language.mdc",
+      "opencode": "opencode/instructions/11-language.md",
+      "canonical": "rules/official/language.json",
+      "loaded_by_default": true
+    },
+    "STD-LANG-006": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/11-language.mdc",
+      "opencode": "opencode/instructions/11-language.md",
+      "canonical": "rules/official/language.json",
+      "loaded_by_default": true
+    },
+    "STD-LANG-007": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/11-language.mdc",
+      "opencode": "opencode/instructions/11-language.md",
+      "canonical": "rules/official/language.json",
+      "loaded_by_default": true
+    },
+    "STD-LANG-008": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/11-language.mdc",
+      "opencode": "opencode/instructions/11-language.md",
+      "canonical": "rules/official/language.json",
+      "loaded_by_default": true
+    },
+    "STD-LANG-009": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/11-language.mdc",
+      "opencode": "opencode/instructions/11-language.md",
+      "canonical": "rules/official/language.json",
+      "loaded_by_default": true
+    },
+    "STD-LANG-010": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/11-language.mdc",
+      "opencode": "opencode/instructions/11-language.md",
+      "canonical": "rules/official/language.json",
+      "loaded_by_default": true
+    },
+    "STD-LANG-011": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/11-language.mdc",
+      "opencode": "opencode/instructions/11-language.md",
+      "canonical": "rules/official/language.json",
+      "loaded_by_default": true
+    },
+    "STD-LANG-012": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/11-language.mdc",
+      "opencode": "opencode/instructions/11-language.md",
+      "canonical": "rules/official/language.json",
+      "loaded_by_default": true
+    },
+    "STD-LANG-013": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/11-language.mdc",
+      "opencode": "opencode/instructions/11-language.md",
+      "canonical": "rules/official/language.json",
+      "loaded_by_default": true
+    },
+    "STD-LANG-014": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/11-language.mdc",
+      "opencode": "opencode/instructions/11-language.md",
+      "canonical": "rules/official/language.json",
+      "loaded_by_default": true
+    },
+    "STD-LANG-015": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/11-language.mdc",
+      "opencode": "opencode/instructions/11-language.md",
+      "canonical": "rules/official/language.json",
+      "loaded_by_default": true
+    },
+    "STD-QRY-001": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/20-queries.mdc",
+      "opencode": "opencode/instructions/20-queries.md",
+      "canonical": "rules/official/queries.json",
+      "loaded_by_default": true
+    },
+    "STD-QRY-002": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/20-queries.mdc",
+      "opencode": "opencode/instructions/20-queries.md",
+      "canonical": "rules/official/queries.json",
+      "loaded_by_default": true
+    },
+    "STD-QRY-003": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/20-queries.mdc",
+      "opencode": "opencode/instructions/20-queries.md",
+      "canonical": "rules/official/queries.json",
+      "loaded_by_default": true
+    },
+    "STD-QRY-004": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/20-queries.mdc",
+      "opencode": "opencode/instructions/20-queries.md",
+      "canonical": "rules/official/queries.json",
+      "loaded_by_default": true
+    },
+    "STD-QRY-005": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/20-queries.mdc",
+      "opencode": "opencode/instructions/20-queries.md",
+      "canonical": "rules/official/queries.json",
+      "loaded_by_default": true
+    },
+    "STD-QRY-006": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/20-queries.mdc",
+      "opencode": "opencode/instructions/20-queries.md",
+      "canonical": "rules/official/queries.json",
+      "loaded_by_default": true
+    },
+    "STD-QRY-007": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/20-queries.mdc",
+      "opencode": "opencode/instructions/20-queries.md",
+      "canonical": "rules/official/queries.json",
+      "loaded_by_default": true
+    },
+    "STD-QRY-008": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/20-queries.mdc",
+      "opencode": "opencode/instructions/20-queries.md",
+      "canonical": "rules/official/queries.json",
+      "loaded_by_default": true
+    },
+    "STD-QRY-009": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/20-queries.mdc",
+      "opencode": "opencode/instructions/20-queries.md",
+      "canonical": "rules/official/queries.json",
+      "loaded_by_default": true
+    },
+    "STD-QRY-010": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/20-queries.mdc",
+      "opencode": "opencode/instructions/20-queries.md",
+      "canonical": "rules/official/queries.json",
+      "loaded_by_default": true
+    },
+    "STD-QRY-011": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/20-queries.mdc",
+      "opencode": "opencode/instructions/20-queries.md",
+      "canonical": "rules/official/queries.json",
+      "loaded_by_default": true
+    },
+    "STD-QRY-012": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/20-queries.mdc",
+      "opencode": "opencode/instructions/20-queries.md",
+      "canonical": "rules/official/queries.json",
+      "loaded_by_default": true
+    },
+    "STD-QRY-013": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/20-queries.mdc",
+      "opencode": "opencode/instructions/20-queries.md",
+      "canonical": "rules/official/queries.json",
+      "loaded_by_default": true
+    },
+    "STD-QRY-014": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/20-queries.mdc",
+      "opencode": "opencode/instructions/20-queries.md",
+      "canonical": "rules/official/queries.json",
+      "loaded_by_default": true
+    },
+    "STD-QRY-015": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/20-queries.mdc",
+      "opencode": "opencode/instructions/20-queries.md",
+      "canonical": "rules/official/queries.json",
+      "loaded_by_default": true
+    },
+    "STD-QRY-016": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/20-queries.mdc",
+      "opencode": "opencode/instructions/20-queries.md",
+      "canonical": "rules/official/queries.json",
+      "loaded_by_default": true
+    },
+    "STD-QRY-017": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/20-queries.mdc",
+      "opencode": "opencode/instructions/20-queries.md",
+      "canonical": "rules/official/queries.json",
+      "loaded_by_default": true
+    },
+    "ENG-REV-005": {
+      "type": "ENGINEERING_RECOMMENDATION",
+      "cursor": ".cursor/rules/20-queries.mdc",
+      "opencode": "opencode/instructions/20-queries.md",
+      "canonical": "rules/recommendations/engineering.json",
+      "loaded_by_default": true
+    },
+    "STD-ARCH-001": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/architecture.json",
+      "loaded_by_default": true
+    },
+    "STD-ARCH-002": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/architecture.json",
+      "loaded_by_default": true
+    },
+    "STD-ARCH-003": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/architecture.json",
+      "loaded_by_default": true
+    },
+    "STD-ARCH-004": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/architecture.json",
+      "loaded_by_default": true
+    },
+    "STD-ARCH-005": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/architecture.json",
+      "loaded_by_default": true
+    },
+    "STD-ARCH-006": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/architecture.json",
+      "loaded_by_default": true
+    },
+    "STD-ARCH-007": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/architecture.json",
+      "loaded_by_default": true
+    },
+    "STD-ARCH-008": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/architecture.json",
+      "loaded_by_default": true
+    },
+    "STD-ARCH-009": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/architecture.json",
+      "loaded_by_default": true
+    },
+    "STD-ARCH-010": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/architecture.json",
+      "loaded_by_default": true
+    },
+    "STD-DATA-001": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/data.json",
+      "loaded_by_default": true
+    },
+    "STD-DATA-002": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/data.json",
+      "loaded_by_default": true
+    },
+    "STD-DATA-003": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/data.json",
+      "loaded_by_default": true
+    },
+    "STD-DATA-004": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/data.json",
+      "loaded_by_default": true
+    },
+    "STD-DATA-005": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/data.json",
+      "loaded_by_default": true
+    },
+    "STD-DATA-006": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/data.json",
+      "loaded_by_default": true
+    },
+    "STD-DATA-007": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/data.json",
+      "loaded_by_default": true
+    },
+    "STD-DATA-008": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/data.json",
+      "loaded_by_default": true
+    },
+    "STD-DATA-009": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/data.json",
+      "loaded_by_default": true
+    },
+    "STD-DATA-010": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/data.json",
+      "loaded_by_default": true
+    },
+    "STD-DATA-011": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/data.json",
+      "loaded_by_default": true
+    },
+    "STD-DATA-012": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/data.json",
+      "loaded_by_default": true
+    },
+    "STD-DATA-013": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/data.json",
+      "loaded_by_default": true
+    },
+    "STD-DATA-014": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/data.json",
+      "loaded_by_default": true
+    },
+    "STD-DATA-015": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/30-data-architecture.mdc",
+      "opencode": "opencode/instructions/30-data-architecture.md",
+      "canonical": "rules/official/data.json",
+      "loaded_by_default": true
+    },
+    "STD-CS-001": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/40-client-server-security.mdc",
+      "opencode": "opencode/instructions/40-client-server-security.md",
+      "canonical": "rules/official/client-server.json",
+      "loaded_by_default": true
+    },
+    "STD-CS-002": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/40-client-server-security.mdc",
+      "opencode": "opencode/instructions/40-client-server-security.md",
+      "canonical": "rules/official/client-server.json",
+      "loaded_by_default": true
+    },
+    "STD-CS-003": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/40-client-server-security.mdc",
+      "opencode": "opencode/instructions/40-client-server-security.md",
+      "canonical": "rules/official/client-server.json",
+      "loaded_by_default": true
+    },
+    "STD-CS-004": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/40-client-server-security.mdc",
+      "opencode": "opencode/instructions/40-client-server-security.md",
+      "canonical": "rules/official/client-server.json",
+      "loaded_by_default": true
+    },
+    "STD-CS-005": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/40-client-server-security.mdc",
+      "opencode": "opencode/instructions/40-client-server-security.md",
+      "canonical": "rules/official/client-server.json",
+      "loaded_by_default": true
+    },
+    "STD-CS-006": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/40-client-server-security.mdc",
+      "opencode": "opencode/instructions/40-client-server-security.md",
+      "canonical": "rules/official/client-server.json",
+      "loaded_by_default": true
+    },
+    "STD-CS-007": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/40-client-server-security.mdc",
+      "opencode": "opencode/instructions/40-client-server-security.md",
+      "canonical": "rules/official/client-server.json",
+      "loaded_by_default": true
+    },
+    "STD-CS-008": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/40-client-server-security.mdc",
+      "opencode": "opencode/instructions/40-client-server-security.md",
+      "canonical": "rules/official/client-server.json",
+      "loaded_by_default": true
+    },
+    "STD-CS-009": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/40-client-server-security.mdc",
+      "opencode": "opencode/instructions/40-client-server-security.md",
+      "canonical": "rules/official/client-server.json",
+      "loaded_by_default": true
+    },
+    "STD-SEC-001": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/40-client-server-security.mdc",
+      "opencode": "opencode/instructions/40-client-server-security.md",
+      "canonical": "rules/official/security.json",
+      "loaded_by_default": true
+    },
+    "STD-SEC-002": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/40-client-server-security.mdc",
+      "opencode": "opencode/instructions/40-client-server-security.md",
+      "canonical": "rules/official/security.json",
+      "loaded_by_default": true
+    },
+    "STD-SEC-003": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/40-client-server-security.mdc",
+      "opencode": "opencode/instructions/40-client-server-security.md",
+      "canonical": "rules/official/security.json",
+      "loaded_by_default": true
+    },
+    "STD-SEC-004": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/40-client-server-security.mdc",
+      "opencode": "opencode/instructions/40-client-server-security.md",
+      "canonical": "rules/official/security.json",
+      "loaded_by_default": true
+    },
+    "STD-SEC-005": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/40-client-server-security.mdc",
+      "opencode": "opencode/instructions/40-client-server-security.md",
+      "canonical": "rules/official/security.json",
+      "loaded_by_default": true
+    },
+    "STD-SEC-006": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/40-client-server-security.mdc",
+      "opencode": "opencode/instructions/40-client-server-security.md",
+      "canonical": "rules/official/security.json",
+      "loaded_by_default": true
+    },
+    "STD-SEC-007": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/40-client-server-security.mdc",
+      "opencode": "opencode/instructions/40-client-server-security.md",
+      "canonical": "rules/official/security.json",
+      "loaded_by_default": true
+    },
+    "STD-SEC-008": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/40-client-server-security.mdc",
+      "opencode": "opencode/instructions/40-client-server-security.md",
+      "canonical": "rules/official/security.json",
+      "loaded_by_default": true
+    },
+    "ENG-REV-007": {
+      "type": "ENGINEERING_RECOMMENDATION",
+      "cursor": ".cursor/rules/40-client-server-security.mdc",
+      "opencode": "opencode/instructions/40-client-server-security.md",
+      "canonical": "rules/recommendations/engineering.json",
+      "loaded_by_default": true
+    },
+    "STD-UI-001": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/50-forms-applied.mdc",
+      "opencode": "opencode/instructions/50-forms-applied.md",
+      "canonical": "rules/official/forms-applied.json",
+      "loaded_by_default": true
+    },
+    "STD-UI-002": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/50-forms-applied.mdc",
+      "opencode": "opencode/instructions/50-forms-applied.md",
+      "canonical": "rules/official/forms-applied.json",
+      "loaded_by_default": true
+    },
+    "STD-UI-003": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/50-forms-applied.mdc",
+      "opencode": "opencode/instructions/50-forms-applied.md",
+      "canonical": "rules/official/forms-applied.json",
+      "loaded_by_default": true
+    },
+    "STD-UI-004": {
+      "type": "OFFICIAL_STANDARD",
+      "cursor": ".cursor/rules/50-forms-applied.mdc",
+      "opencode": "opencode/instructions/50-forms-applied.md",
+      "canonical": "rules/official/forms-applied.json",
+      "loaded_by_default": true
+    },
+    "PRJ-TPL-001": {
+      "type": "PROJECT_REQUIREMENT",
+      "cursor": ".cursor/rules/90-project-template.mdc",
+      "opencode": "opencode/instructions/90-project-template.md",
+      "canonical": "rules/project/template.json",
+      "loaded_by_default": false
+    },
+    "PRJ-TPL-002": {
+      "type": "PROJECT_REQUIREMENT",
+      "cursor": ".cursor/rules/90-project-template.mdc",
+      "opencode": "opencode/instructions/90-project-template.md",
+      "canonical": "rules/project/template.json",
+      "loaded_by_default": false
+    }
+  }
+}
